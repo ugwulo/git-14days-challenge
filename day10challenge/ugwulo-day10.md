@@ -1,13 +1,10 @@
 # Day10 Git Rebase using Squash
 
-## First Commit
-![Link](Url)
+## Several Commit Messages
+![commitMessages](https://user-images.githubusercontent.com/52312550/82160018-3cbab800-988a-11ea-8620-02ec5cc6fcbe.PNG)
 
-## Second Commit
-![Link](Url)
+## Rebase log after a Succesful squash
+![rebaseLog](https://user-images.githubusercontent.com/52312550/82160011-2f9dc900-988a-11ea-827b-1d6860a720fa.PNG)
 
-## Third Commit
-![Link]()
-
-## Fourth Commit
-![Link](Url)
+## Rebased Commits using Squash command
+![rebasedCommits](https://user-images.githubusercontent.com/52312550/82160009-2b71ab80-988a-11ea-8684-1dbaaea041db.PNG)
